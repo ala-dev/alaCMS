@@ -1,0 +1,23 @@
+
+/*	Smartphone
+ */
+@media only screen and (max-width: 420px) {
+
+	.p25 {
+		width: 48%;
+	}
+
+	.p33, .p40, .p50, .p60, .p66 {
+		width: 100%;
+	}
+
+}
+
+
+/*	Tablet
+ */
+@media only screen and (max-width: 768px) {
+
+}
+
+
